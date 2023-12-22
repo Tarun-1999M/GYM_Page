@@ -45,6 +45,7 @@ body{
 .Gym_Image{
     width: 300px;
     height: 300px;
+    padding:40px;
 }
 
 .top{
