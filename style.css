@@ -22,12 +22,13 @@ h4,a{
    
 }
 body{
-    background-color: white;
+    background-color: black;
     margin:0 60px;
 }
 
 .one{
-    background-color:white;
+    background-color:#F9FAF8;
+    margin:0;
 }
 
 
@@ -82,6 +83,8 @@ body{
 .one_heading{
     text-align: center;
     margin-bottom:40px;
+    margin-top:0;
+    padding:20px;
 }
 
 .body_of_part_1{
@@ -91,4 +94,30 @@ justify-content: space-evenly;
 }
 h3{ margin:0;
     text-align: center;
+}
+
+/*second-start*/
+.second{
+    background-color:#E5E7EB;
+    font-size:36px;
+    height: 200px;
+    padding:60px;
+    
+}
+
+.qoute{
+    align-items: center;
+    color: #1F2937;
+    font-family:italic;
+    font-size:36px;
+    text-align: center;
+}
+
+.author{
+    font-weight:bold;
+    font-size:20px;
+    margin-top:0;
+    text-align: right;
+    margin-right:40px;
+
 }
