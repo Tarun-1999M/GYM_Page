@@ -23,7 +23,7 @@ h4,a{
 }
 body{
     background-color: black;
-    margin:0 60px;
+    margin:0 0;
 }
 
 .one{
@@ -79,6 +79,8 @@ body{
 .one_images{
     width:200px;
     height:200px;
+    border-radius: 30px;
+    border-color: wheat;
 }
 
 .one_heading{
@@ -107,19 +109,20 @@ h3{ margin:0;
 }
 
 .qoute{
-    align-items: center;
     color: #1F2937;
     font-family:italic;
     font-size:36px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
 }
 
 .author{
     font-weight:bold;
     font-size:20px;
-    margin-top:0;
-    text-align: right;
-    margin-right:40px;
+    margin:0;
+    margin-left:1300px;
 
 }
 
@@ -149,6 +152,10 @@ h3{ margin:0;
     
 }
 
+.button_for_signup{
+    height:50px;
+    width:160px;
+}
 /*fourth-section-end*/
 
 /*footer*/
