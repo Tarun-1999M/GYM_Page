@@ -1,11 +1,70 @@
+/*colors-start*/
+
+.head{
+    background-color: #1F2937;
+    margin:0;
+}
+
+h1{
+    font-size: 48px;
+    color:#F9FAF8;
+    font-weight: bolder;
+}
+
+
+button{
+    background-color: #F9FAF8;
+    color:#1F2937;
+}
+
+h4,a{
+    color:#E5E7EB;
+   
+}
+body{
+    background-color: black;
+    margin:0 60px;
+}
+
+
+
+
+/*colors-end*/
+
+/*header-start*/
+
 .logo{
-    width: 100px;
-    height:100px;
+    width: 50px;
+    height:50px;
     
 }
 
 .Gym_Image{
-    width: 500px;
-    height: 500px;
+    width: 300px;
+    height: 300px;
 }
 
+.top{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+}
+.links{
+    display: flex;
+    gap:40px;
+    align-items: center;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-around;
+}
+
+.heading{
+    margin-bottom:0;
+}
+.content{
+    margin-top:0;
+}
+
+/*header-end*/
