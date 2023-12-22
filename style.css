@@ -100,7 +100,7 @@ h3{ margin:0;
 .second{
     background-color:#E5E7EB;
     font-size:36px;
-    height: 200px;
+    height: 100px;
     padding:60px;
     
 }
@@ -120,4 +120,42 @@ h3{ margin:0;
     text-align: right;
     margin-right:40px;
 
+}
+
+/*fourth-section*/
+.third{
+    color:white;
+   
+    padding:40px;
+    background-color: white;
+}
+
+.signup{
+    background-color: #3882F6;
+    margin:0;
+    justify-content: center;
+    gap:40px;
+    display: flex;
+    height:100px;
+    align-items: center;
+}
+
+.text{
+    margin:0;
+}
+.total_texts{
+    padding:10px;
+    
+}
+
+/*fourth-section-end*/
+
+/*footer*/
+
+footer{
+    background-color:#1F2937 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#E5E7EB;
 }
